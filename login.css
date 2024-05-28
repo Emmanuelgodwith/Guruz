@@ -58,3 +58,11 @@ body {
 .already {
     color: #f0f0f0;
 }
+.already a {
+    color: white;
+    text-decoration: none;
+}
+
+.already a:hover {
+    text-decoration: underline;
+}
